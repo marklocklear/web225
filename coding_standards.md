@@ -1,6 +1,6 @@
-```J. Mark Locklear
+J. Mark Locklear
 Web225
-15Aug17```
+15Aug17
 
 ### General
 
